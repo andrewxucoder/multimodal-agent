@@ -3,6 +3,7 @@
 
 def main() -> None:
     """Placeholder main function for orchestrating multimodal agent modules."""
+    print("This is a test.")
     raise NotImplementedError("Orchestration logic is not yet implemented.")
 
 
